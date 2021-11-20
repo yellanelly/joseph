@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html><center>
+<head><center><strong>Welcome to Joseph's World</center></head></strong></head>
+<body>
+    <h1>Welcome to Joseph's World</h1>
+    <h3>Get ready to experience the time of your life!</h3>
+    <p>What are some of the rides at Joseph's World?</p>
+    <ul>
+  <li>The Punisher-ride through the pain</li>
+    <li>The Sausage Express-ride big and fast through a tight tunnel</li>
+    <li>The Pounder-get taken to pound town</li>
+    <li>Clam Smacker-the moist ride</li>
+</ul>
+<p>Take a stab at his world reknown sausages at<br>The Sausage Fest </p>
+<ul>
+    <li>Korean Sausage-Bulgogi inspired with Kim chi on top</li>
+<li>Italian Stallion Sausage- Vienna Sausage with big meat balls</li>
+<li>Russian Sausage- Thick sausage marianted in vodka</li>
+<li>Southern Sausage- Slender sausage seasoned with classic old bay</li>
+</ul>
+
+<img src="https://www.tanyatargett.com/wp-content/uploads/2018/07/sausage-1030x579.jpg" height="400" width="600">
+<iframe width="600" height="400" src="https://www.youtube.com/embed/YKGSgPSZ-4k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<a href="./aboutme.html"> <font size="20">All About Joseph Caquioa</font></a>
+</body>
+
+
+
+
+</center>
+</html>
