@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<title>Joseph Sausages</title>
+<center>
+<h1>Joseph's Sausages</h1>
+<br>
+<img src="https://www.tanyatargett.com/wp-content/uploads/2018/07/sausage-1030x579.jpg" height="200" width="400">
+<br>
+<body>
+    <form>
+        <h1>Order your juicy sausage here!</h1>
+        <section class="sausage">
+            <label for="sausage"><h3>How many sausages would you like?</h3></label>
+            <input type="number" name="sausage" id="sausage">
+        </section>
+    </form><h3>
+    <section class="cook">
+        <label for="cook"> How would you like your sausage cooked?</label></section></h3>
+        <span>Rare</span>
+        <input type="range" name="cook" id="cook" value="3" min="1" max="5">
+        <span>Well Done</span>
+        <h3>Choose your sausage size</h3>
+        <label for="size">Small/Grower</label>
+        <input id="small" name="small" type="radio" value="small">
+        <Br>
+        <label for="Medium">Medium/Average </label>
+        <input id="medium" name="medium" type="radio" value="medium">
+        <br>
+        <label for="large">Large/Shower</label>
+        <input id="large" value="large" type="radio" name="large">
+        <for>
+            <h3>Choose your Sausage Toppings</h3>
+            <label for="onion">Onions</label>
+            <input id="onion" value="onion" type="checkbox" name="onion">
+            <br>
+            <label for="relish">Relish</label>
+            <input id="relish" value="relish" type="checkbox" name="relish">
+            <br>
+            <label for="ketchup">Ketchup</label>
+            <input id="ketchup" value="ketchup" type="checkbox" name="ketchup">
+            <br>
+            <label for="mustard">Mustard</label>
+            <input id="mustard" value="mustard" type="checkbox" name="mustard">
+        </form>
+    </section>
+
+
+</body>
+</center>
